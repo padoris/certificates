@@ -1,6 +1,6 @@
 
 <p>
-    <b>Upload to cpanel </b>
+    <b>Upload to cpanel </b><br><hr>
     <b>1 -></b> move the files of 'public' folder one directory up to the root.<br>
     <b>2 -></b> create a database to cpanel Datapase add a user to this Database and give full rights of the user to the database, then open the PhPmyAdmin tool of the cpanel
     and import the certs.sql file to create the tables of the DB<br>
