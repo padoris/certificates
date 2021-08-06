@@ -1,3 +1,13 @@
+
+<p>
+Upload to cpanel 
+    1 -> move the files of 'public' folder one directory up to the root.
+    2 -> create a database to cpanel Datapase add a user to this Database and give full rights of the user to the database, then open the PhPmyAdmin tool of the cpanel
+    and import the sql file to create the tables of the DB
+    3-> Change the .env to the above credentials 
+</p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
