@@ -1,10 +1,10 @@
 
 <p>
-Upload to cpanel 
-    1 -> move the files of 'public' folder one directory up to the root.
-    2 -> create a database to cpanel Datapase add a user to this Database and give full rights of the user to the database, then open the PhPmyAdmin tool of the cpanel
-    and import the sql file to create the tables of the DB
-    3-> Change the .env to the above credentials 
+    <b>Upload to cpanel </b>
+    <b>1 -></b> move the files of 'public' folder one directory up to the root.<br>
+    <b>2 -></b> create a database to cpanel Datapase add a user to this Database and give full rights of the user to the database, then open the PhPmyAdmin tool of the cpanel
+    and import the certs.sql file to create the tables of the DB<br>
+    <b>3-></b> Change the .env to the above credentials </br>
 </p>
 
 
